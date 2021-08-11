@@ -16,7 +16,7 @@
 
 
 
-![ditached.png](.ditached.png)
+![ditached.png](./ditached.png)
 
 
 
