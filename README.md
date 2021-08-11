@@ -1,3 +1,5 @@
+
+![ditached.png](./ditached.png)
 # Ditached
 
 ### Digital Agency
@@ -7,26 +9,6 @@
 **German Website**: https://ditached.de/
 
 
-
- 
-
-
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
-
-
-![ditached.png](./ditached.png)
 
 ### 
 
