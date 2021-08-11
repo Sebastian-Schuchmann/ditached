@@ -1,7 +1,6 @@
-
 ![ditached.png](./ditached.png)
 
-##
+## Ditached
 ### Digital Agency
 
 **English Website**: https://ditached.com/
